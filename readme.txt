@@ -1,10 +1,7 @@
-ÎÄ¼þ½éÉÜ£º
-	txt_csv_originalv£ºÔ­Ê¼Êý¾Ýtxt±ä³ÉÔ­Ê¼Êý¾Ýcsv
-	txt_csv_lorentzian£ºÔ­Ê¼Êý¾Ýtxt±ä³ÉÂåÂ××È·åÄâºÏºóµÄcsv£¨ÒòÖÐ¼ä¼ÆËã¸´ÔÓ£¬Ê±¼ä½Ï³¤£©
-	txt_csv_pre£ºÔ­Ê¼Êý¾Ýtxt±ä³ÉÀ­Íê»ùÏßÊý¾Ýcsv
-	txt_csv_ave_pre£ºÔ­Ê¼Êý¾ÝtxtÇóÍêÆ½¾ùÀ­Íê»ùÏßÊý¾Ýcsv
+æ–‡ä»¶ä»‹ç»ï¼š
+	txt_csv_originalvï¼šåŽŸå§‹æ•°æ®txtå˜æˆåŽŸå§‹æ•°æ®csv
+	txt_csv_lorentzianï¼šåŽŸå§‹æ•°æ®txtå˜æˆæ´›ä¼¦å…¹å³°æ‹ŸåˆåŽçš„csvï¼ˆå› ä¸­é—´è®¡ç®—å¤æ‚ï¼Œæ—¶é—´è¾ƒé•¿ï¼‰
+	txt_csv_preï¼šåŽŸå§‹æ•°æ®txtå˜æˆæ‹‰å®ŒåŸºçº¿æ•°æ®csv
+	txt_csv_ave_preï¼šåŽŸå§‹æ•°æ®txtæ±‚å®Œå¹³å‡æ‹‰å®ŒåŸºçº¿æ•°æ®csv
 
-Ê¹ÓÃ·½·¨£º
-        ÔÚµ±Ç°´ò¿ªcmd£ºÊäÈëpython  txt_csv_originalv/txt_csv_lorentzian/txt_csv_pre Òª´¦ÀíµÄÎÄ¼þÂ·¾¶ Òª±£´æµÄÎÄ¼þ.csv
-
-	ÀýÈç£ºpython txt_csv_pre.py example test.csv
+å¦‚æœ‰å…·ä½“éœ€è¦è¯·è”ç³»ï¼š1700402318@cjlu.edu.cn
